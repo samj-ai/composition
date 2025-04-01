@@ -1,3 +1,6 @@
 [submodule "data/ARC-AGI-2"]
 	path = data/ARC-AGI-2
 	url = git@github.com:samj-ai/ARC-AGI-2.git
+[submodule "data/ARC-AGI"]
+	path = data/ARC-AGI
+	url = git@github.com:samj-ai/ARC-AGI.git
