@@ -10,6 +10,12 @@ This libary consists of sandboxes / benchmark tasks to evaluate compositional ge
  - SRaven's matrices
  - BBH
 
+Note: for convenience, I use submodules, so if you want to clone this repo, make sure you do:
+
+```
+git clone --recurse-submodules git@github.com:samj-ai/composition.git
+```
+
 Moreover, here I also experiment with dimensions along with transformers and training can be modified to facilitate compositional generalization (and more generally, data efficiency).
 
 Some context in a writeup [here](https://samj-ai.github.io/2025/03/26/ARC-AGI.html).
