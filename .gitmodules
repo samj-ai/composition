@@ -4,3 +4,6 @@
 [submodule "data/ARC-AGI"]
 	path = data/ARC-AGI
 	url = git@github.com:samj-ai/ARC-AGI.git
+[submodule "algorithms/hyla"]
+	path = algorithms/hyla
+	url = git@github.com:samj-ai/hypernetwork-attention.git
