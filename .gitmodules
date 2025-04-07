@@ -7,3 +7,6 @@
 [submodule "algorithms/hyla"]
 	path = algorithms/hyla
 	url = git@github.com:samj-ai/hypernetwork-attention.git
+[submodule "algorithms/marc"]
+	path = algorithms/marc
+	url = git@github.com:samj-ai/marc.git
